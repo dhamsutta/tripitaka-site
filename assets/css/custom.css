@@ -1,15 +1,18 @@
 .image-nav-container {
   display: flex;
   justify-content: center;
+  align-items: center;
   flex-wrap: wrap;
   gap: 1em;
-  margin: 1em auto;
-  max-width: 900px;
+  margin: 2em auto;
+  max-width: 800px;
 }
+
 .image-nav-item {
   text-align: center;
   width: 100px;
 }
+
 .image-nav-item img {
   width: 64px;
   height: 64px;
@@ -17,6 +20,7 @@
   border-radius: 20%;
   box-shadow: 0 0 5px rgba(0,0,0,0.2);
 }
+
 .image-nav-item p {
   margin-top: 0.5em;
   font-size: 14px;
