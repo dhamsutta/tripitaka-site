@@ -4,7 +4,7 @@ title: "ธรรมสุตตะ"
 permalink: /
 header:
   overlay_color: "#f9f9f9"
-  overlay_image: /assets/images/placeholder-logo.png
+  overlay_image:
   actions:
     - label: "พุทธคุณ"
       url: /buddha-khun/
