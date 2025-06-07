@@ -16,15 +16,6 @@ header:
       url: /pakinnaka/
 excerpt: "คู่มือศึกษาพระธรรมตามพระไตรปิฎก พร้อมธรรมบรรยาย บทสวด และชาดก"
 ---
----
-layout: splash
-title: "ธรรมสุตตะ"
-permalink: /
-header:
-  overlay_color: "#f9f9f9"
-  overlay_image: /assets/images/placeholder-logo.png
-excerpt: "คู่มือศึกษาพระธรรมตามพระไตรปิฎก พร้อมธรรมบรรยาย บทสวด และชาดก"
----
 
 <!-- เมนูรูปภาพ 4 ปุ่ม -->
 <div class="image-nav-container">
