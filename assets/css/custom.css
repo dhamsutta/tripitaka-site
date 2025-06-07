@@ -26,3 +26,24 @@
   font-size: 14px;
   font-weight: bold;
 }
+
+.image-nav-item img:hover {
+  transform: scale(1.05);
+  transition: transform 0.3s ease;
+}
+
+@media (max-width: 480px) {
+  .image-nav-item {
+    width: 80px;
+  }
+
+  .image-nav-item img {
+    width: 48px;
+    height: 48px;
+  }
+
+  .image-nav-item p {
+    font-size: 12px;
+  }
+}
+
