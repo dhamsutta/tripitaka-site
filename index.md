@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "ธรรมสุตตะ"
+title: ""
 permalink: /
 header:
   overlay_color: "#f9f9f9"
@@ -14,7 +14,7 @@ header:
       url: /sangaha-khun/
     - label: "ปกิณกะ"
       url: /pakinnaka/
-excerpt: "คู่มือศึกษาพระธรรมตามพระไตรปิฎก พร้อมธรรมบรรยาย บทสวด และชาดก"
+excerpt: ""
 ---
 
 <!-- เมนูรูปภาพ 4 ปุ่ม -->
