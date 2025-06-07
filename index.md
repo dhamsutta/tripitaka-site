@@ -6,13 +6,13 @@ header:
   overlay_color: "#f9f9f9"
   overlay_image:
   actions:
-    - label: "พุทธคุณ"
+    - label: "🧘 พุทธคุณ"
       url: /buddha-khun/
-    - label: "ธรรมคุณ"
+    - label: "📚 ธรรมคุณ"
       url: /dhamma-khun/
-    - label: "สังฆคุณ"
+    - label: "🔔 สังฆคุณ"
       url: /sangaha-khun/
-    - label: "ปกิณกะ"
+    - label: "🌿 ปกิณกะ"
       url: /pakinnaka/
 excerpt: ""
 ---
