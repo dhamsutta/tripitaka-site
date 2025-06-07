@@ -1,7 +1,9 @@
 ---
 layout: home
-permalink: /
 title: "ธรรมสุตตะ"
+permalink: /
+custom_css: "/assets/css/custom.css"
+
 header:
   overlay_color: "#f9f9f9"
   overlay_image: /assets/images/placeholder-logo.png
