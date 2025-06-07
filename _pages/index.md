@@ -1,45 +1,4 @@
 ---
-
-<div class="image-nav-container">
-  <div class="image-nav-item">
-    <a href="/paritta/">
-      <img src="/assets/images/paritta-icon.png" alt="Paritta">
-      <p>Paritta</p>
-    </a>
-  </div>
-  <div class="image-nav-item">
-    <a href="/ab-sangaha/">
-      <img src="/assets/images/ab-sangaha-icon.png" alt="Ab-saṅgaha">
-      <p>Ab-saṅgaha</p>
-    </a>
-  </div>
-  <div class="image-nav-item">
-    <a href="/uposatha/">
-      <img src="/assets/images/uposatha-icon.png" alt="Uposatha">
-      <p>Uposatha</p>
-    </a>
-  </div>
-  <div class="image-nav-item">
-    <a href="/meditasi/">
-      <img src="/assets/images/meditasi-icon.png" alt="Meditasi">
-      <p>Meditasi</p>
-    </a>
-  </div>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
----
 layout: splash
 permalink: /
 title: "ธรรมสุตตะ"
@@ -54,6 +13,35 @@ header:
     - label: "พระอภิธรรม"
       url: /abhidhamma/
 excerpt: 'แหล่งรวมพระไตรปิฎก พร้อมธรรมบรรยาย บทสวด และชาดก'
+---
+
+<div class="image-nav-container">
+  <div class="image-nav-item">
+    <a href="/paritta/">
+      <img src="/assets/images/buddha-icon.png" alt="พุทธคุณ">
+      <p>พุทธคุณ</p>
+    </a>
+  </div>
+  <div class="image-nav-item">
+    <a href="/ab-sangaha/">
+      <img src="/assets/images/dhammacakka-icon.png" alt="ธรรมคุณ">
+      <p>ธรรมคุณ</p>
+    </a>
+  </div>
+  <div class="image-nav-item">
+    <a href="/uposatha/">
+      <img src="/assets/images/bell-icon.png" alt="สังฆคุณ">
+      <p>สังฆคุณ</p>
+    </a>
+  </div>
+  <div class="image-nav-item">
+    <a href="/pakinnaka/">
+      <img src="/assets/images/bodhi-icon.png" alt="ปกิณกะ">
+      <p>ปกิณกะ</p>
+    </a>
+  </div>
+</div>
+
 ---
 
 ## 🎧 ธรรมบรรยาย | 🕯️ บทสวด | 🐘 ชาดก  
