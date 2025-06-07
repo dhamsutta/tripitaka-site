@@ -34,11 +34,13 @@ collections:
     permalink: /:path/
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
+      type: pages
     values:
-      custom_css: "/assets/css/custom.css"
+      layout: single
+      author_profile: false
+	  custom_css: "/assets/css/custom.css"
 
 # Footer
 footer:
