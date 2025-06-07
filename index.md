@@ -1,6 +1,5 @@
 ---
 layout: splash
-title: ""
 show_title: false
 permalink: /
 header:
