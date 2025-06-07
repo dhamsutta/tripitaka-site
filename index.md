@@ -2,6 +2,17 @@
 layout: splash
 title: "ธรรมสุตตะ"
 permalink: /
+header:
+  overlay_color: "#f9f9f9"
+  overlay_image: /assets/images/placeholder-logo.png
+  actions:
+    - label: "พระวินัย"
+      url: /vinaya/
+    - label: "พระสูตร"
+      url: /sutta/
+    - label: "พระอภิธรรม"
+      url: /abhidhamma/
+excerpt: "แหล่งรวมพระไตรปิฎก พร้อมธรรมบรรยาย บทสวด และชาดก"
 ---
 
 <div class="image-nav-container">
