@@ -1,6 +1,7 @@
 ---
 layout: splash
 title: ""
+show_title: false
 permalink: /
 header:
   overlay_color: "#f9f9f9"
@@ -16,6 +17,14 @@ header:
       url: /pakinnaka/
 excerpt: ""
 ---
+
+<style>
+.page__hero--overlay {
+  min-height: 200px !important;
+}
+</style>
+
+
 
 <!-- เมนูรูปภาพ 4 ปุ่ม -->
 <div class="image-nav-container">
