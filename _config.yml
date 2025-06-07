@@ -33,7 +33,7 @@ collections:
     output: true
     permalink: /:path/
 
-	  defaults:
+defaults:
   - scope:
       path: ""
       type: pages
